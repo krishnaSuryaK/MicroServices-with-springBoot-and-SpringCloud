@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # MicroServices-with-springBoot-and-SpringCloud
 =======
-# tecnotab-microservices-youtube
 
 Port Configuration
 ---------------------------------------
@@ -19,4 +17,3 @@ Port Configuration
 
 
 
->>>>>>> 7bfc7e8 (Initial Commit)
